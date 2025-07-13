@@ -1,2 +1,5 @@
 sujeendharm
-commit and update 
+git and github 
+COMMANDS:
+git init
+git add .
