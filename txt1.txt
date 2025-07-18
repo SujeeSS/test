@@ -1,6 +1,6 @@
 sujeendharm
 git and github 
-COMMANDS:
+ COMMANDS:
 git init
 git add .
 git remote add origin "...link.."
