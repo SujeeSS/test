@@ -3,7 +3,7 @@ git and github
  COMMANDS:
    git init
    git add .
-git remote add origin "...link.."
+   git remote add origin "...link.."
 git branch -M main
 git commit -m "title"
 git push -u main (or)
