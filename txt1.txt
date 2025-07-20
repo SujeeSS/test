@@ -5,6 +5,6 @@ git and github
    git add .
    git remote add origin "...link.."
    git branch -M main
-git commit -m "title"
+   git commit -m "title"
 git push -u main (or)
 git push
