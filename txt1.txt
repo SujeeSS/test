@@ -4,7 +4,7 @@ git and github
    git init
    git add .
    git remote add origin "...link.."
-git branch -M main
+   git branch -M main
 git commit -m "title"
 git push -u main (or)
 git push
